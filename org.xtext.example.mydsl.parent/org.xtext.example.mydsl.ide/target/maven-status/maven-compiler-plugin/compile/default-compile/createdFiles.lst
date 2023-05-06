@@ -1,0 +1,10 @@
+org/xtext/example/mydsl/ide/contentassist/antlr/internal/InternalMyDslLexer$DFA12.class
+org/xtext/example/mydsl/ide/contentassist/antlr/MyDslParser$NameMappings.class
+org/xtext/example/mydsl/ide/contentassist/antlr/PartialMyDslContentAssistParser.class
+org/xtext/example/mydsl/ide/contentassist/antlr/internal/InternalMyDslLexer.class
+org/xtext/example/mydsl/ide/contentassist/antlr/internal/InternalMyDslParser.class
+org/xtext/example/mydsl/ide/contentassist/antlr/MyDslParser.class
+org/xtext/example/mydsl/ide/MyDslIdeModule.class
+org/xtext/example/mydsl/ide/MyDslIdeSetup.class
+org/xtext/example/mydsl/ide/ServerLauncher.class
+org/xtext/example/mydsl/ide/AbstractMyDslIdeModule.class
